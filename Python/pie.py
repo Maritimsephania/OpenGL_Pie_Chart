@@ -1,3 +1,8 @@
+#Group 9
+#Members:
+#1. sct211-0245/2023 Kipkoech Sephania
+#2. sct211-0014/2023 Ali Abdirahaman
+
 from OpenGL.GL import *
 from OpenGL.GLUT import *
 from OpenGL.GLU import *
